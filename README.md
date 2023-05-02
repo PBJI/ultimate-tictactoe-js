@@ -7,7 +7,7 @@ Ultimate Tic-Tac-Toe is a more complex version of Tic-Tac-Toe that requires stra
 
 # Preview
 
-![Preview](./UIpreview)
+[![thumbnail](./UIpreview)](https://user-images.githubusercontent.com/67221507/235636375-ae5099f8-9d22-4b33-9b81-8cf77bacbf4b.mp4)
 
 # Game Logics (only for those who want to understand the code):
 The startGame() function initializes several global variables, including plot, bigsquareConcluded, numOfBSConcluded, previousBSID, and movesPlayed. It also sets the Player variable to "X".
